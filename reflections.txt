@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+Wow, this has helped me learn a lot. First I learn how important it is to look at the MDN when I’m stuck on something. I also learned how to ask google the right questions so it will pull up the answers I’m looking for. 
+
+What’s been easy? Some of it is a little familiar from when I took web development in school. The basic HTML elements are the same. Also I took notes as I went along so that helped a bunch.
+
+Whats been difficult? Wow lots of stuff. So its been a while since I wrote any HTML and it seems like I have to bad syntax habits. Specifically, when to use a certain tag over another. For example, many years ago I would have use the break tag to start a paragraph instead of the paragraph tag. 
+
+How have you used the problem solving strategies from the first project to overcome challenges so far? There was one MAJOR skill that I’ve been using and thats MDN. If this wasn’t shown to me in the first section it would be the last thing I would have used. Honestly the MDN has stayed in the second tab on my browser since than. I can see myself using this well into the future. 
